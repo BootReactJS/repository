@@ -13,3 +13,6 @@
 [submodule "cssgridls"]
 	path = cssgridls
 	url = https://github.com/JavaBootUI/cssgridlines.git
+[submodule "Reactelements"]
+	path = Reactelements
+	url = https://github.com/BootReactJS/Reactelements.git
